@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/rolldice/static/css/main.5f361e03.chunk.css",
-    "main.js": "/rolldice/static/js/main.1b1d6663.chunk.js",
-    "main.js.map": "/rolldice/static/js/main.1b1d6663.chunk.js.map",
+    "main.js": "/rolldice/static/js/main.f38959b1.chunk.js",
+    "main.js.map": "/rolldice/static/js/main.f38959b1.chunk.js.map",
     "runtime-main.js": "/rolldice/static/js/runtime-main.dd89cbc9.js",
     "runtime-main.js.map": "/rolldice/static/js/runtime-main.dd89cbc9.js.map",
     "static/js/2.c16649c8.chunk.js": "/rolldice/static/js/2.c16649c8.chunk.js",
     "static/js/2.c16649c8.chunk.js.map": "/rolldice/static/js/2.c16649c8.chunk.js.map",
     "index.html": "/rolldice/index.html",
-    "precache-manifest.7aec2520edcb3c420314d5140d42492f.js": "/rolldice/precache-manifest.7aec2520edcb3c420314d5140d42492f.js",
+    "precache-manifest.a4cb51f629559e36e82da4911815568a.js": "/rolldice/precache-manifest.a4cb51f629559e36e82da4911815568a.js",
     "service-worker.js": "/rolldice/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/rolldice/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.c16649c8.chunk.js.LICENSE.txt": "/rolldice/static/js/2.c16649c8.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.dd89cbc9.js",
     "static/js/2.c16649c8.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.1b1d6663.chunk.js"
+    "static/js/main.f38959b1.chunk.js"
   ]
 }
